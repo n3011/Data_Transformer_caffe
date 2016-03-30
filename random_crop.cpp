@@ -1,5 +1,5 @@
 /*!
- * \file image_augmenter_opencv.hpp
+ * \file iaugmentation_opencv.hpp
  * \modified by Mrinal Haloi
  */
 #include <opencv2/opencv.hpp>
